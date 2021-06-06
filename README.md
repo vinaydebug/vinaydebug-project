@@ -1,3 +1,3 @@
 # vinaydebug-project
-In this reository contains my all projects.
+In this repository contains my all projects.
 I am using python language. 
